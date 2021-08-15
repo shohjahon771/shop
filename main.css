@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: wheat;
+    width: 100%;
+}
+
+
+.tab-pane{
+    margin-top: 100px;
+    margin-left: 300px ;
+}
+.tab-pane a{
+    margin: 20px;
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.nav-link li:first-child{
+    height: 4px;
+}
+.noutbuk{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 20px ;
+    text-align: center;
+}
+.noutbuk img{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px   ;
+}
+.noutbuk-card{
+    display: inline-block;
+    margin: 10px;
+}
+.kompyuter-card{
+    display: inline-block;
+    margin: 10px;
+}
+.kompyuter-card img{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px   ;
+}
+.kompyuter-card{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 20px ;
+    text-align: center;
+}
+
+
+.monoblok-card{
+    display: inline-block;
+    margin: 10px;
+}
+.monoblok-card img{
+    width: 120px;
+    height: 100px;
+    margin-left: 20px   ;
+}
+.monoblok-card{
+    width: 200px;
+    height: 240px;
+    border: 1px solid grey;
+    border-radius: 20px ;
+    text-align: center;
+}
+
+
+/*Telefonni cardi*/
+
+
+
+.telefon-card{
+     display: inline-block;
+     margin: 10px;
+ }
+.telefon-card img{
+    width: 100px;
+    height: 120px;
+    margin-left: 10px   ;
+}
+.telefon-card{
+    width: 200px;
+    height: 240px;
+    border: 1px solid grey;
+    border-radius: 20px ;
+    text-align: center;
+}
+/*Akkuser qismi*/
+
+
+.akkuser-card{
+    display: inline-block;
+    margin: 10px;
+}
+.akkuser-card img{
+    width: 100px;
+    height: 120px;
+    margin-left: 10px   ;
+}
+.akkuser-card{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 20px ;
+    text-align: center;
+}
+.block{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+header , section {
+    width: 100%;
+}
+
+
